@@ -1,6 +1,6 @@
 
-## NENLP: New England Natural Language Processing Meeting Series
+## COMP 5300: Advanced Topics in NLP, Fall 2022 at UMass Lowell
 
-This repository hosts the webpage of the NENLP, a meeting series for academic and industry NLP researchers who live and work in New England.
+This repository hosts the webpage for COMP 5300, Fall 2022
 
-https://nenlp.github.io/
+https://text-machine-lab.github.io/adv-nlp-f2022
